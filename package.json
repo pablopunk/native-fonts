@@ -1,0 +1,53 @@
+{
+  "name": "native-fonts",
+  "description": "font-family string with native presets, for fast yet beautiful html pages.",
+  "version": "1.0.0",
+  "author": "Pablo Varela <pablo@pablopunk.com>",
+  "bugs": {
+    "url": "https://github.com/pablopunk/native-fonts/issues",
+    "email": "pablo@pablopunk.com"
+  },
+  "contributors": [
+    "Pablo Varela <pablo@pablopunk.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "*",
+    "pretty-quick": "*",
+    "husky": "*"
+  },
+  "homepage": "https://github.com/pablopunk/native-fonts",
+  "keywords": [
+    "miny",
+    "native-fonts",
+    "html",
+    "page",
+    "website",
+    "fast",
+    "blazing",
+    "quick",
+    "font-family",
+    "css",
+    "apple",
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablopunk/native-fonts"
+  },
+  "scripts": {}
+}
