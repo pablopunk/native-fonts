@@ -1,7 +1,7 @@
 {
   "name": "native-fonts",
   "description": "font-family string with native presets, for fast yet beautiful html pages.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Pablo Varela <pablo@pablopunk.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/native-fonts/issues",
